@@ -58,10 +58,10 @@ var vm_data = {
 }
 
 vm_data.sourceCode =
-    `- Programming
-something I love
-  - Web Development
-    - Front-end development
+    `- Open Educational Resources (OER)
+offene Bildungsmaterialien
+  - Suchen & Finden
+    - OERhoernchen
 (stuff for the browsers)
       - Languages
         - HTML
